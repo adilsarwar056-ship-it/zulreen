@@ -84,7 +84,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   grid-column: 2;
   background:
     linear-gradient(90deg, var(--wine-dark) 0%, rgba(53,17,31,0.45) 36%, rgba(53,17,31,0.08) 100%),
-    url("assets/zulreen-campaign.png") center 28% / cover no-repeat;
+    url("assets/zulreen-campaign.webp") center 28% / cover no-repeat;
 }
 .hero-content {
   position: absolute;
